@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionFilters", "Excepti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncInACatchAndFinallyBlock", "AsyncInACatchAndFinallyBlock\AsyncInACatchAndFinallyBlock.csproj", "{2848AD3C-9B50-4838-B7E1-7F34EE014D2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOfExpressions", "NameOfExpressions\NameOfExpressions.csproj", "{68921A7F-291C-4A56-9F49-1A8ED9BFD48A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2848AD3C-9B50-4838-B7E1-7F34EE014D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2848AD3C-9B50-4838-B7E1-7F34EE014D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2848AD3C-9B50-4838-B7E1-7F34EE014D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68921A7F-291C-4A56-9F49-1A8ED9BFD48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68921A7F-291C-4A56-9F49-1A8ED9BFD48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68921A7F-291C-4A56-9F49-1A8ED9BFD48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68921A7F-291C-4A56-9F49-1A8ED9BFD48A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
